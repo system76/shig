@@ -42,4 +42,4 @@ the two; instead, just say, "card".
 
 ---
 
-For anything not covered in this document, refer to the [elementary HIG](https://elementary.io/docs/human-interface-guidelines).
+The System76 HIG is heavily influenced by [elementary](https://elementary.io). For anything not covered in this document, refer to the [elementary HIG](https://elementary.io/docs/human-interface-guidelines).
