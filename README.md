@@ -67,7 +67,7 @@ the pixel width and height with no spaces, eg. `3200×1800`. Default to using th
 actual resolution (`1920×1080`, `3200×1800`, `3840×2160`, etc.) and not more
 ambiguous terms.
 
-To describe a high-density pixel-doubled screen, always use the term "HiDPI";
+To describe a high-density pixel-doubled screen, always use the term `HiDPI`;
 the fact that they are HiDPI is what matters, not the exact physical resolution.
 Relegate exact pixel resolutions to tech specs or supplementary text.
 
