@@ -40,6 +40,12 @@ method in context (i.e. a card or financing), feel free to be more specific.
 However, avoid "credit card" or "debit card", since we can't distinguish between
 the two; instead, just say, "card".
 
+## Measurements & Units
+
+Use a space between numbers and units, eg. "72 TB" instead of "72TB". For feet
+and inches, use the prime (&prime;, `&prime;`) and dobule-prime (&Prime;,
+`&Prime;`) entities.
+
 ---
 
 The System76 HIG is heavily influenced by [elementary](https://elementary.io). For anything not covered in this document, refer to the [elementary HIG](https://elementary.io/docs/human-interface-guidelines).
