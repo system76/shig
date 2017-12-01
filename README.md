@@ -5,6 +5,8 @@ developers and designers maintain a consistent and pleasant experience for end
 users across our web and desktop products.
 
 
+# UI
+
 ## Dialogs & Actions
 
 When presenting a dialog or action, include Primary and Secondary text as well
@@ -27,6 +29,8 @@ Aligned right-to-left at the bottom of the UI. Affirmative/suggested action,
 cancel (if applicable), and any secondary actions.
 
 
+# Copy
+
 ## Common Terms to Use & Avoid
 
 ### Products
@@ -40,28 +44,28 @@ product name when it makes sense.
 
 ### Payment Methods
 
-Use the term "payment methods", not "transaction methods", "payment cards", or
+Use the term `payment methods`, not `transaction methods`, `payment cards`, or
 anything else when being generic. If you know the type of a specific payment
 method in context (i.e. a card or financing), feel free to be more specific.
-However, avoid "credit card" or "debit card", since we can't distinguish between
-the two; instead, just say, "card".
+However, avoid `credit card` or `debit card`, since we can't distinguish between
+the two; instead, just say, `card`.
 
 
 ## Measurements & Units
 
 Use a space between numbers and text units, eg. `72 TB` and `4.0 GHz` instead of
-`72TB` and `4.0GHz`. For feet and inches, use the prime (&prime;, `&prime;`) and
-double-prime (&Prime;, `&Prime;`) entities. For pounds and kilograms, always
+`72TB` and `4.0GHz`. For feet and inches, use the prime (′, `&prime;`) and
+double-prime (″, `&Prime;`) entities. For pounds and kilograms, always
 abbreviate, but do not use a period after the abbreviation, eg. use `2.5 lbs`,
 not `2.5 lbs.`.
 
 
 ### Display & Camera Resolutions
 
-When describing resolutions, always use a times symbol (&times;, `&times;`)
-between the pixel width and height with no spaces, eg. "3200&times;1800".
-Default to using the actual resolution (1920×1080, 3200×1800, 3840×2160, etc.)
-and not more ambiguous terms.
+When describing resolutions, always use a times symbol (×, `&times;`) between
+the pixel width and height with no spaces, eg. `3200×1800`. Default to using the
+actual resolution (`1920×1080`, `3200×1800`, `3840×2160`, etc.) and not more
+ambiguous terms.
 
 To describe a high-density pixel-doubled screen, always use the term "HiDPI";
 the fact that they are HiDPI is what matters, not the exact physical resolution.
@@ -91,9 +95,9 @@ dollar).
 ## Third-Party Brand Names
 
 NVIDIA should always be written as `NVIDIA` in both component names and general
-copy. Intel should include the registered symbol (&reg;, `&reg;`) i.e.
-"Intel&reg;" in tech specs and catalog product option descriptions, but **not**
-in component names or general copy.
+copy. Intel should include the registered symbol (®, `&reg;`) i.e. `Intel®`` in
+tech specs and catalog product option descriptions, but **not** in component
+names or general copy.
 
 ---
 
