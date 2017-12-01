@@ -95,7 +95,7 @@ dollar).
 ## Third-Party Brand Names
 
 NVIDIA should always be written as `NVIDIA` in both component names and general
-copy. Intel should include the registered symbol (®, `&reg;`) i.e. `Intel®`` in
+copy. Intel should include the registered symbol (®, `&reg;`) i.e. `Intel®` in
 tech specs and catalog product option descriptions, but **not** in component
 names or general copy.
 
